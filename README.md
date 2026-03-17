@@ -20,7 +20,7 @@ This research analyzed how different OAE treatments influenced phytoplankton com
 * Chlorophyll measurements
 * Nutrient measurements
 * Alkalinity measurements
-* Phytoplankton microscopy and identification
+* Phytoplankton light microscopy, scanning electron microscopy, and identification
   
 ---
 ### Skills Demonstrated
